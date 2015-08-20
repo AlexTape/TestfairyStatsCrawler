@@ -1,6 +1,6 @@
 # Simple Client for Testfairy.com REST API
 
-This very simple perl wrapper to do queries against the Testfairy.com REST API.
+This very simple perl wrapper to do queries against the Testfairy.com REST API and to transform requested session datasets to plain csv files.
 ```
 Usage:
         Testfairy.pl [options]
