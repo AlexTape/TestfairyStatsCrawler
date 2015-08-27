@@ -35,7 +35,7 @@ our $URI   	  = "https://app.testfairy.com/api/1/projects";
 		-b      Build ID (will list all revelevant sessions)
 		-s      Session ID (will list relevant session data)
 		-f      Output File for concrete Session
-		-i      Content of CSV Output File [cpu,memory,opengl,battery]
+		-c      Content of CSV Output File [cpu,memory,opengl,battery]
 
 =head1 DESCRIPTION
 
